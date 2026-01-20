@@ -1,0 +1,23 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk.dir is shared)
+local.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+*.ide
+.DS_Store
+
+# Generated files
+/app/build/
+/app/*.iml
+
+# Signing
+*.jks
+*.keystore
+*.pem
+*.p12
+key.properties
