@@ -2,6 +2,8 @@
 
 This module is used to hack the Google Translate app to enable practice mode.
 
+![Hack Screenshot](hack.png)
+
 **ONLY FOR EDUCATIONAL PURPOSES!**
 
 **Target App:**
